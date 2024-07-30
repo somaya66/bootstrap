@@ -1,0 +1,29 @@
+body{
+    font-family: "cairo";
+   background-color: #009688;
+
+}
+.main-data-sec{
+    background-color: #dddddd;
+}
+
+.container{
+    width: 100%;
+    max-width: 800px;
+}
+.main-data-sec{
+    margin-top: 200px;
+}
+.main-data-sec .main-img {
+margin-top: -90px;
+}
+.container-form form{
+   width: 100%;
+}
+.head-sec img{
+    max-height: 30px;
+}
+.form-control {
+    display: block;
+    width: 192%;
+}
